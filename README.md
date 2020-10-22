@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a82090d4-1d32-4bf8-b85f-fcfed03aa5bc/deploy-status)](https://app.netlify.com/sites/youtube-radio/deploys)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
